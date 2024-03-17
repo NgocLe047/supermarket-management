@@ -1,0 +1,12 @@
+C:\Users\lehon\OneDrive\Desktop\Nhom5_QuanLySieuThi\Control\bin\Debug\Control.dll
+C:\Users\lehon\OneDrive\Desktop\Nhom5_QuanLySieuThi\Control\bin\Debug\Control.pdb
+C:\Users\lehon\OneDrive\Desktop\Nhom5_QuanLySieuThi\Control\obj\Debug\Control.dll
+C:\Users\lehon\OneDrive\Desktop\Nhom5_QuanLySieuThi\Control\obj\Debug\Control.pdb
+C:\Users\lehon\OneDrive\Desktop\Nhom5_QuanLySieuThi\Control\obj\Debug\TKControl.csproj.CoreCompileInputs.cache
+C:\Users\lehon\OneDrive\Desktop\Nhom5_QuanLySieuThi\Control\obj\Debug\TKControl.csproj.AssemblyReference.cache
+C:\backup\Nhom5_QLST\Nhom5_QuanLySieuThi\Control\bin\Debug\Control.dll
+C:\backup\Nhom5_QLST\Nhom5_QuanLySieuThi\Control\bin\Debug\Control.pdb
+C:\backup\Nhom5_QLST\Nhom5_QuanLySieuThi\Control\obj\Debug\TKControl.csproj.AssemblyReference.cache
+C:\backup\Nhom5_QLST\Nhom5_QuanLySieuThi\Control\obj\Debug\TKControl.csproj.CoreCompileInputs.cache
+C:\backup\Nhom5_QLST\Nhom5_QuanLySieuThi\Control\obj\Debug\Control.dll
+C:\backup\Nhom5_QLST\Nhom5_QuanLySieuThi\Control\obj\Debug\Control.pdb

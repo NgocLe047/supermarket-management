@@ -1,0 +1,15 @@
+C:\Users\giang\OneDrive\Máy tính\Data\Nhom5_QuanLySieuThi1\Nhom5_QuanLySieuThi\DTO\bin\Debug\DTO.dll
+C:\Users\giang\OneDrive\Máy tính\Data\Nhom5_QuanLySieuThi1\Nhom5_QuanLySieuThi\DTO\bin\Debug\DTO.pdb
+C:\Users\giang\OneDrive\Máy tính\Data\Nhom5_QuanLySieuThi1\Nhom5_QuanLySieuThi\DTO\obj\Debug\DTO.dll
+C:\Users\giang\OneDrive\Máy tính\Data\Nhom5_QuanLySieuThi1\Nhom5_QuanLySieuThi\DTO\obj\Debug\DTO.pdb
+C:\Users\lehon\OneDrive\Desktop\Nhom5_QuanLySieuThi\DTO\bin\Debug\DTO.dll
+C:\Users\lehon\OneDrive\Desktop\Nhom5_QuanLySieuThi\DTO\bin\Debug\DTO.pdb
+C:\Users\lehon\OneDrive\Desktop\Nhom5_QuanLySieuThi\DTO\obj\Debug\DTO.dll
+C:\Users\lehon\OneDrive\Desktop\Nhom5_QuanLySieuThi\DTO\obj\Debug\DTO.pdb
+C:\Users\lehon\OneDrive\Desktop\Nhom5_QuanLySieuThi\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\backup\Nhom5_QLST\Nhom5_QuanLySieuThi\DTO\bin\Debug\DTO.dll
+C:\backup\Nhom5_QLST\Nhom5_QuanLySieuThi\DTO\bin\Debug\DTO.pdb
+C:\backup\Nhom5_QLST\Nhom5_QuanLySieuThi\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\backup\Nhom5_QLST\Nhom5_QuanLySieuThi\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\backup\Nhom5_QLST\Nhom5_QuanLySieuThi\DTO\obj\Debug\DTO.dll
+C:\backup\Nhom5_QLST\Nhom5_QuanLySieuThi\DTO\obj\Debug\DTO.pdb

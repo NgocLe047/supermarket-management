@@ -1,0 +1,11 @@
+Các bước để cài đặt dữ liệu và chạy phần mềm quản lý siêu thị:
+-Bước 1: Mở file Database.sql bằng Microsoft sql server
+-Bước 2: Tạo một database có tên là QLSieuThi
+-Bước 3: Chạy tất cả các lệnh trong Database.sql
+-Bươc 4: Mở folder Nhom5_QuanLySieuThi
+-Bước 5: Chạy file Nhom5_QuanLySieuThi.sln bằng visual studio 2019 trở lên 
+-Bước 6: Kết nối database QLSieuThi trong Server Explorer
+-Bước 7: Trong class library DAO,mở file QLST.dbml và xóa tất cả các bảng 
+-Bước 8: Trong Server Explorer chọn database QLSieuThi vừa kết nối, vào file Tables
+-Bước 9: Chọn và kéo tất cả các bảng trong Tables vào file QLST.dbml vừa mới mở
+-Bước 10: Build lần lượt các tầng DTO, DAO, GUI và sau đó chạy project
